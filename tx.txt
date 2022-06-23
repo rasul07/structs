@@ -1,0 +1,6 @@
+
+
+1. config
+2. Create, Get, Update, List
+3. var -> Scan -> string -> ("create", "update")
+4. if 
